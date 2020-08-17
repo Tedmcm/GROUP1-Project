@@ -33,4 +33,4 @@ No two recessions are alike; for our study, we chose to examine the 2000 and 200
 
 ### Images
 
-![2000 Asset Beta](Data Visualization/2000-Asset-Beta.png)
+![2000 Asset Beta](/Data Visualization/2000-Asset-Beta.png)
