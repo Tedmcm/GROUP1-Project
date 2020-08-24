@@ -77,4 +77,53 @@ for all data sets.
 
 ### Images
 
-![2000 Asset Beta](/Data Visualization/2000-Asset-Beta.png)
+#### 2000 Asset Beta
+
+![2000 Asset Beta](data_visualization/2000-Asset-Beta.png)
+
+#### 2000 Sharpe Ratios
+
+![2000 Sharpe Ratios](data_visualization/2000_SHARPE_RATIOS.PNG)
+
+#### 2000 Standard Deviation
+
+![2000 Standard Deviation](data_visualization/2000_STANDARD_DEVIATION.PNG)
+
+#### 2007 Asset Beta
+
+![2007 Asset Beta](data_visualization/2007-Asset-Beta.png)
+
+#### 2007 Sharpe Ratios
+
+![2007 Sharpe Ratios](data_visualization/2007_SHARPE_RATIOS.PNG)
+
+#### 2007 Standard Deviation
+
+![2007 Standard Deviation](data_visualization/2007_STANDARD_DEVIATION.PNG)
+
+#### 2000 Cumulative Returns
+
+![2000 Cumulative Returns](data_visualization/Cumulative-Returns-2000.png)
+
+#### 2007 Cumulative Returns
+
+![2007 Cumulative Returns](data_visualization/Cumulative-Returns-2007.png)
+
+#### 2014 Cumulative Returns
+
+![2014 Cumulative Returns](data_visualization/Cumulative-Returns-2014.png)
+
+#### 2000 Portfolio Risk
+![2014 Portfolio Risk](data_visualization/Portfolio-Risk-2000.png)
+
+#### 2007 Portfolio Risk
+
+![2007 Portfolio Risk](data_visualization/Portfolio-Risk-2007.png)
+
+#### 2000 RET
+
+![2000 RET](data_visualization/RET_2000.PNG)
+
+#### 2007 RET
+
+![2007 RET](data_visualization/RET_2007.PNG)
